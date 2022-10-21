@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="60mm"
+   viewBox="0 0 150 60"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="hdr-Img.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#999999"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.587745"
+     inkscape:cx="304.51223"
+     inkscape:cy="157.2798"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="93.452223"
+       y="73.778071"
+       width="556.88781"
+       height="88.533686"
+       id="rect4423" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient373">
+      <stop
+         style="stop-color:#098cff;stop-opacity:1;"
+         offset="0"
+         id="stop369" />
+      <stop
+         style="stop-color:#098cff;stop-opacity:0;"
+         offset="1"
+         id="stop371" />
+    </linearGradient>
+    <rect
+       x="6.5580507"
+       y="66.673516"
+       width="511.52796"
+       height="132.25402"
+       id="rect113" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient373"
+       id="linearGradient375"
+       x1="0"
+       y1="59.022457"
+       x2="483.10974"
+       y2="144.27711"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <filter
+       inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Cutout Glow"
+       style="color-interpolation-filters:sRGB;"
+       id="filter697"
+       x="-0.017047372"
+       y="-0.13308122"
+       width="1.0407366"
+       height="1.3180123">
+      <feOffset
+         dy="3"
+         dx="3"
+         id="feOffset687" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur689" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1"
+         result="flood"
+         id="feFlood691" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite"
+         id="feComposite693" />
+      <feBlend
+         in="blur"
+         in2="composite"
+         mode="normal"
+         id="feBlend695" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,14.459591,2.7473223)"
+       id="text111"
+       style="font-size:74.6667px;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, Normal';white-space:pre;shape-inside:url(#rect113);fill:url(#linearGradient375);fill-opacity:1;stroke:#ffffff;stroke-linejoin:bevel;stroke-opacity:0.925926;filter:url(#filter697)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.31060116,0,0,0.31060116,-21.708392,-3.8812464)"
+       id="text4421"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4423);fill:#363ed2;fill-opacity:1;stroke:#ffffff;stroke-width:1.00128409;stroke-linejoin:bevel;stroke-dasharray:24.0309383, 1.00128409;stroke-dashoffset:0;stroke-opacity:0.942387"><tspan
+         x="93.453125"
+         y="132.16648"
+         id="tspan4450">KarmaCloud</tspan></text>
+  </g>
+</svg>
